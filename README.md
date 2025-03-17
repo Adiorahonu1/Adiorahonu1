@@ -18,7 +18,10 @@
 
 ###
 
-<p align="left">I'm Onuora.<br><br>🔭 I’m working as a Security Engineer.<br>📚 I'm currently learning Azure Cloud.<br>⚡ In my free time, I practice threat hunting, work on security labs, explore OSINT techniques, and contribute to my cybersecurity portfolio.</p>
+<p align="left">I'm Onuora.<br><br>  
+🔭 I’m a skilled DevOps and Security Engineer with hands-on experience in cloud infrastructure, automation, and cybersecurity.<br> 
+📚 I'm currently expanding my expertise in Azure Cloud and advanced security operations.<br>
+⚡ In my free time, I enjoy exploring cybersecurity trends, staying updated on the latest security threats, and engaging with the security community.</p><br>  
 
 ###
 
