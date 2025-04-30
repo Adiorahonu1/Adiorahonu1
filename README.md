@@ -22,8 +22,8 @@
 ⚡ In my free time, I enjoy exploring cybersecurity trends, staying updated on the latest security threats, and engaging with the security community.</p><br>  
 
 ---
-
 ## 🛠 Key Skills & Showcase Projects
+
 ## 🌩️ Cloud‑Security Projects
 | Project | What it Shows |
 |---------|---------------|
@@ -31,6 +31,7 @@
 | **[Azure IAM Zero‑Trust](https://github.com/Adiorahonu1/Azure-IAM-Security)** | RBAC, Conditional Access, MFA enforcement |
 | **[Azure Firewall Build](https://github.com/Adiorahonu1/Azure-Firewall)** | Central firewall + UDRs + threat‑intel filtering |
 | **[Azure VNet & NSG Design](https://github.com/Adiorahonu1/Azure-Virtual-Network-Setup)** | Hub/spoke, NSG + ASG segmentation for mini‑infrastructure |
+| **[Azure Sentinel SIEM & SOAR Implementation](https://github.com/Adiorahonu1/Azure-Sentinel-SIEM-SOAR-Implementation)** | Microsoft Sentinel deployment, custom analytics & playbooks |
 
 ## 🛡️ Offensive / Blue‑Team Labs
 | Project | Stack |
@@ -50,7 +51,6 @@
 | Repo | Language |
 |------|----------|
 | **[Mac System Monitor](https://github.com/Adiorahonu1/system-monitoring-script)** | Bash – CPU, RAM, disk alerts |
-
 ---
 
 ## 🔧 Toolbox
