@@ -31,7 +31,7 @@
 | **[Azure IAM Zero‑Trust](https://github.com/Adiorahonu1/Azure-IAM-Security)** | RBAC, Conditional Access, MFA enforcement |
 | **[Azure Firewall Build](https://github.com/Adiorahonu1/Azure-Firewall)** | Central firewall + UDRs + threat‑intel filtering |
 | **[Azure VNet & NSG Design](https://github.com/Adiorahonu1/Azure-Virtual-Network-Setup)** | Hub/spoke, NSG + ASG segmentation for mini‑infrastructure |
-| **[Azure Sentinel SIEM & SOAR Implementation](https://github.com/Adiorahonu1/Azure-Sentinel-SIEM-SOAR-Implementation)** | Microsoft Sentinel deployment, custom analytics & playbooks |
+| **[Azure Sentinel SIEM & SOAR Implementation](https://github.com/Adiorahonu1/Azure-Sentinel-SIEM-and-SOAR-Implementation.git)** | Microsoft Sentinel deployment, custom analytics & playbooks |
 
 ## 🛡️ Offensive / Blue‑Team Labs
 | Project | Stack |
