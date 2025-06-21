@@ -1,5 +1,5 @@
   <div align="center">
-    <img height="350" src="https://raw.githubusercontent.com/Adiorahonu1/Adiorahonu1/main/assets/defense-in-depth-iec-62443-animated.gif" />
+    <img height="350" src="assets/76a50dc3-0c2b-4d1f-bfae-f76191c2c217.jpg" />
   </div>
   
   ###
